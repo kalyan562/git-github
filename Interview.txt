@@ -1,2 +1,4 @@
 HOW TO RECOVER DEADLOCK TRANSACTION ID PROCESS LOCK
 https://sqlbak.com/academy/sql-server-database-health-check/
+
+All the best 
