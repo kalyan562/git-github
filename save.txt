@@ -1,0 +1,13 @@
+SELECT * from Agent
+SELECT * from Agentpolicy
+
+SELECT Agent.Name,Agentpolicy.policyid,Agentpolicy.Agentpolicyid,Agent.DOB 
+FROM Agent
+JOIN Agentpolicy
+ON Agent.Agentid = Agentpolicy.Agentid
+
+
+
+SELECT * from Insure
+SELECT * from policy
+
